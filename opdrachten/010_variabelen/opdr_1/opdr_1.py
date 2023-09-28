@@ -4,4 +4,5 @@
 
 # Hier komt je code...
 
-my_list = ...
+my_list = ( "wat een weertje")
+print (my)
