@@ -14,6 +14,9 @@ print()
 # en toon de volgende zin op het scherm: Albert Einstein zei ooit: 'Als je niks fout doet, dan kun je ook niks leren!'
 voornaam = "albert"
 achternaam = "einstein"
-
-
-print()
+stukje_tekst = ("O mamma mia, wat maak je toch heerlijke pizza's")
+fname = "albert"
+lname = "einstein"
+fullname = f"{fname} {lname}"
+stukje_tekst1 = "Albert Einstein zei ooit: 'Als je niks fout doet, dan kun je ook niks leren!"
+print(stukje_tekst, fullname.title(), stukje_tekst1)
